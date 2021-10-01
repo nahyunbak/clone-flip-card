@@ -7,5 +7,5 @@
 
 # Introduction 
 * Created to learn CSS flip card effect 
-* cloned this video's instruction 
+* Cloned this video's instruction 
 * https://youtu.be/OV8MVmtgmoY 
